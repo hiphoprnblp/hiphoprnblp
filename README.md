@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="bandeau.jpg" width="100%" alt="Quantum-Sense">
 
 <!--
 **hiphoprnblp/hiphoprnblp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
